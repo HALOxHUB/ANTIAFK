@@ -1,4 +1,3 @@
---hi
 local anti = Instance.new("ScreenGui")
 local Gradient = Instance.new("Frame")
 local UIGradient = Instance.new("UIGradient")
